@@ -1,4 +1,4 @@
 # AI-EMR
-welcome tu ai-emr
+welcome to ai-emr
 
 we want sovle a problem  that write log and emr doc by ai
